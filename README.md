@@ -17,7 +17,7 @@ Use entirely at your own risk.
 
 [full wording]
 
-</details>IMPORTANT – GOV.UK / DVSA TERMS & CONDITIONS
+</IMPORTANT – GOV.UK / DVSA TERMS & CONDITIONS
 
 Before using this tool, it is important that you understand the following.
 
@@ -68,7 +68,7 @@ You remain fully responsible for:
 ✅ Proceeding with any booking manually
 ✅ Complying with DVSA Terms & Conditions
 
-The tool is designed only to assist with notifications and repetitive checking tasks.
+The tool is designed only to assist with notifications and repetitive checking tasks.>
 
 ---
 
