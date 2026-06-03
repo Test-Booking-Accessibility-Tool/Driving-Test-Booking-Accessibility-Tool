@@ -17,7 +17,58 @@ Use entirely at your own risk.
 
 [full wording]
 
-</details>
+</details>IMPORTANT – GOV.UK / DVSA TERMS & CONDITIONS
+
+Before using this tool, it is important that you understand the following.
+
+The Driver and Vehicle Standards Agency (DVSA) has publicly stated that they may regard the use of certain:
+
+* third-party applications
+* automated tools
+* search tools
+* notification systems
+* automated checking tools
+
+as being contrary to the Terms and Conditions of the GOV.UK driving test booking system.
+
+As a result:
+
+The DVSA may regard the use of tools of this type as contrary to their Terms and Conditions.
+
+Possible actions the DVSA may take can include:
+
+* issuing a warning notice
+* restricting online access
+* temporarily blocking use of the booking system
+* requiring additional verification
+* rescheduling or cancelling bookings
+* revoking the ability to manage bookings online
+
+The GOV.UK website may also display additional security checks if unusual or repeated activity is detected.
+
+Use of this tool is entirely at your own risk.
+
+⸻
+
+What this tool DOES NOT do
+
+This tool:
+
+❌ Does NOT book driving tests automatically
+❌ Does NOT click through booking screens automatically
+❌ Does NOT submit payments
+❌ Does NOT guarantee a driving test date
+❌ Does NOT bypass GOV.UK security checks
+
+You remain fully responsible for:
+
+✅ Logging into GOV.UK yourself
+✅ Entering your own search details
+✅ Reviewing dates yourself
+✅ Proceeding with any booking manually
+✅ Complying with DVSA Terms & Conditions
+
+The tool is designed only to assist with notifications and repetitive checking tasks.
 
 ---
 
