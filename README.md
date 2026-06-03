@@ -15,9 +15,7 @@ Use entirely at your own risk.
 <details>
 <summary>Read full disclaimer</summary>
 
-[full wording]
-
-</IMPORTANT – GOV.UK / DVSA TERMS & CONDITIONS
+IMPORTANT – GOV.UK / DVSA TERMS & CONDITIONS
 
 Before using this tool, it is important that you understand the following.
 
